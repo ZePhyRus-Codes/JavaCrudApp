@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110947586358",
+    "project_id": "javacrudapp-4b693",
+    "storage_bucket": "javacrudapp-4b693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110947586358:android:f732de3285748b08caa397",
+        "android_client_info": {
+          "package_name": "com.javacrudapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlg1NcLzo0Pp9gw2DHO7rh9-52qxTkr7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
